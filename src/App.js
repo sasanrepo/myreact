@@ -5,7 +5,7 @@ function App() {
     };
     const address = {
     country: 'Germany',
-    city: 'Berlin',
+    city: 'munich',
     };
     const {firstName, lastName} = profile;
     const user = {
